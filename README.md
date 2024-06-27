@@ -1,9 +1,10 @@
 # Video-Frame-Reducer
 reducing duplicated frames from anime and other videos
 
-このツールは、FFmpegを使用して動画ファイルを変換し、フレーム削減を行います。
+このツールは、FFmpegを使用して動画ファイルを変換し、重複したフレームの削減を行います。
+内部的にはffmpegのmpdecimateフィルタをかけているだけです。。
 
-ChatGPTで作ったぞ!
+（このReadmeも含めてChatGPTだけで作ったぞ!科学の力ってすげー！）
 
 ## 動作環境
 
