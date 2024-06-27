@@ -107,6 +107,7 @@ reducing duplicated frames from anime and other videos
 
 - 変換中にツールを閉じたり、強制終了したりしないでください。
 - FFmpegの設定やコマンドに関する詳細は、[FFmpegの公式ドキュメント](https://ffmpeg.org/documentation.html)を参照してください。
+- 一応バグは取ったけど、AIに造らせたプログラムだし、どんなことになるかわからないから、自分で責任を持って使ってね！
 
 ## ライセンス
 
