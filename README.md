@@ -2,6 +2,7 @@
 reducing duplicated frames from anime and other videos
 
 このツールは、FFmpegを使用して動画ファイルを変換し、重複したフレームの削減を行います。
+アニメのように同一フレーーむが多重化されているものから重複フレームを削除しVFR（変どうフレームレート）形式の動画に変換します。
 内部的にはffmpegのmpdecimateフィルタをかけているだけです。。
 
 （このReadmeも含めてChatGPTだけで作ったぞ!科学の力ってすげー！）
